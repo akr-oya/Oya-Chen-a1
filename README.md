@@ -1,2 +1,2 @@
-# myrepo
-Repository for testing my Git/GitHub setup
+# Assignment 1
+Group member: Chloe Chen, Akari Oya
